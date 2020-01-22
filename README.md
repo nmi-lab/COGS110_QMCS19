@@ -1,8 +1,5 @@
-# Quantitative Methods for Cognitive Sciences
+# COGS110 Syllabus: Quantitative Methods for Cognitive Sciences Spring 2019
 
-```
-Spring 2019
-```
 ```
 Instructor: Emre Neftci Time: Tue, Thu 9:30AM – 10:50AM
 Email: eneftci@uci.edu Place: ALP 3600
@@ -31,7 +28,8 @@ plines, with varying background knowledge in the field. However, quantitative re
 including basic calculus and basic familiarity with a programming language such as MATLAB
 or Python are expected.
 
-References: Course material is inspired from the following resources (All books are available
+## References: 
+Course material is inspired from the following resources (All books are available
 online)
 
 [1] Simon Farrell and Stephan Lewandowsky.Computational modeling of cognition and behav-
@@ -47,12 +45,12 @@ algebra. Vol. 3. Wellesley-Cambridge Press Wellesley, MA, 1993.
 
 Course Pages https://canvas.eee.uci.edu/courses/16991
 
-Office Hours:
+## Office Hours:
 
 - Neftci:Wed 1:00PM - 5:00PM by appointment at SBSG 2308
 
 
-Tentative Course Schedule:
+## Course Schedule:
 
 ```
 Introduction: Sequential Sampling Models.................................. Week 1
@@ -67,12 +65,14 @@ Linear Algebra: Eigenspaces................................................ Week
 Principal Component Analysis.............................................. Week 9
 Combining Data from Multiple Participants............................... .Week 10
 ```
-Grading: Reports and assignments must be submitted before the deadline posted with each
+## Grading: 
+Reports and assignments must be submitted before the deadline posted with each
 assignment sheet. Letter grades will be assigned on the basis of assignments (40%), midterm
 (20%) and final (40%). Assignments returned late will count as half a homework. No make-up
 examinations.
 
-Academic Misconduct: Students found to be guilty of plagiarism or cheating as defined by
+## Academic Misconduct: 
+Students found to be guilty of plagiarism or cheating as defined by
 official university policy will automatically receive an “F” in the course. Other actions consistent
 with university policy may also be taken where deemed appropriate. Important information
 on how the university responds to instances of academic dishonesty can be found athttp:
