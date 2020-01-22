@@ -7,7 +7,8 @@ Spring 2019
 Instructor: Emre Neftci Time: Tue, Thu 9:30AM – 10:50AM
 Email: eneftci@uci.edu Place: ALP 3600
 ```
-Course Overview: Cognitive scientists try to understand how the mind works, especially
+## Course Overview: 
+Cognitive scientists try to understand how the mind works, especially
 those of humans. To this end, they create descriptions of cognitive processes to make predictions
 for behavior and ultimately explain it. Computational modeling is becoming important in this
 endeavor because it leads to precise quantifiable predictions. Such predictions cannot be obtained
