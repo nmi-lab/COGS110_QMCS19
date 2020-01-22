@@ -44,7 +44,7 @@ Secaucus, NJ, USA, 2006.
 [4] Gilbert Strang, Gilbert Strang, Gilbert Strang, and Gilbert Strang.Introduction to linear
 algebra. Vol. 3. Wellesley-Cambridge Press Wellesley, MA, 1993.
 
-Course Pages (TBD) https://canvas.eee.uci.edu/courses/
+Course Pages https://canvas.eee.uci.edu/courses/16991
 
 Office Hours:
 
